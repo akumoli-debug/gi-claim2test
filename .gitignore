@@ -1,7 +1,9 @@
- .venv/
- __pycache__/
- *.pyc
- .DS_Store
- results/
- claims/*.jsonl
- claims/pdfs/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.log
+results/
+claims/*.jsonl
+claims/pdfs/
