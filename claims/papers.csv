@@ -1,0 +1,6 @@
+paper_id,title,year,source_url,pdf_path,notes
+1,Memory Retention Is Not Enough to Master Memory Tasks in RL,2025,https://arxiv.org/abs/2512.06204,claims/pdfs/QMRus.pdf,Tests memory rewriting vs retention - Dec 2025
+2,Real-Time Recurrent Reinforcement Learning,2025,https://arxiv.org/abs/2311.04830,claims/pdfs/2311.04830.pdf,Biologically plausible recurrent RL for POMDPs - Mar 2025 revision
+3,Toward Task Generalization via Memory Augmentation in Meta-RL,2025,https://arxiv.org/abs/2502.02834,claims/pdfs/2502.02834.pdf,Memory mechanisms for OOD generalization in legged robots - Jun 2025
+4,Task-Aware Virtual Training for OOD Generalization,2025,https://arxiv.org/abs/2512.09706,claims/pdfs/2512.09706.pdf,Meta-RL OOD generalization via metric-based latents - Jun 2025
+5,MemRL: Self-Evolving Agents via Runtime RL on Episodic Memory,2025,https://arxiv.org/abs/2601.03192,claims/pdfs/2601.03192.pdf,Memory-based learning without catastrophic forgetting - Jan 2025

@@ -1,0 +1,12 @@
+gymnasium
+minigrid
+stable-baselines3
+torch
+matplotlib
+pandas
+pymupdf
+pydantic
+tqdm
+sb3-contrib
+anthropic
+requests

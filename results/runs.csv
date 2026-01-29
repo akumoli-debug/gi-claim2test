@@ -1,0 +1,9 @@
+test_type,agent_type,split,mean_reward,success_rate
+A,baseline,in-distribution,0.0,0.0
+A,baseline,OOD,0.0,0.0
+A,memory,in-distribution,0.0,0.0
+A,memory,OOD,0.0,0.0
+A,baseline,in-distribution,0.5328999999999999,0.55
+A,baseline,OOD,0.48469999999999996,0.5
+A,memory,in-distribution,0.96076,1.0
+A,memory,OOD,0.9609400000000001,1.0
